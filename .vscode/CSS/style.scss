@@ -1,0 +1,10 @@
+$primaryColor:rgb(189, 189, 189);
+$secondaryColor: rgb(208, 198, 157);
+
+nav{
+    background-color: $secondaryColor;
+}
+
+h1{
+    padding-top: ($spacer * .25);
+}
